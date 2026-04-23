@@ -25,7 +25,7 @@ El simulador permite a los estudiantes comprender conceptos clave de administrac
 
 ## ▶️ Uso
 
-Simplemente haz clic en este (enlace)[https://bmedinayanez.github.io/simulador-clonezilla].
+Simplemente haz clic en este enlace: [https://bmedinayanez.github.io/simulador-clonezilla].
 
 ---
 
