@@ -45,7 +45,8 @@ Simplemente haz clic en este enlace: [https://bmedinayanez.github.io/simulador-c
 
 Desarrollado por **Mª Beatriz Medina Yañez** con ayuda de Google AI Studio
 
+---
+
 ## 🖼️ Screenshots
 
 ![image](./screenshots/01.png)
-
