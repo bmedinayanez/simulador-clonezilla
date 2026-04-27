@@ -2,9 +2,14 @@
 
 ## 📌 Descripción
 
-Este proyecto consiste en un **simulador educativo inspirado en Clonezilla**, diseñado específicamente para su uso en **ciclos formativos de informática**. Su objetivo es enseñar de forma práctica y segura cómo funcionan los procesos de **clonado, restauración y gestión de imágenes de sistemas** sin necesidad de intervenir equipos reales.
+Este proyecto consiste en un **simulador educativo inspirado en Clonezilla**, 
+diseñado específicamente para su uso en **ciclos formativos de informática**. 
+Su objetivo es enseñar de forma práctica y segura cómo funcionan los procesos 
+de **clonado, restauración y gestión de imágenes de sistemas** sin necesidad 
+de intervenir equipos reales.
 
-El simulador permite a los estudiantes comprender conceptos clave de administración de sistemas de forma visual, guiada y sin riesgos.
+El simulador permite a los estudiantes comprender conceptos clave de administración 
+de sistemas de forma visual, guiada y sin riesgos.
 
 ---
 
@@ -38,4 +43,9 @@ Simplemente haz clic en este enlace: [https://bmedinayanez.github.io/simulador-c
 
 ## 👨‍🏫 Autor
 
-Desarrollado por **Beatriz Medina** con ayuda de Google AI Studio
+Desarrollado por **Mª Beatriz Medina Yañez** con ayuda de Google AI Studio
+
+## 🖼️ Screenshots
+
+![image](./screenshots/01.png)
+
