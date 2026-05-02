@@ -50,3 +50,4 @@ Desarrollado por **Mª Beatriz Medina Yañez** con ayuda de Google AI Studio
 ## 🖼️ Screenshots
 
 ![image](./screenshots/01.png)
+
